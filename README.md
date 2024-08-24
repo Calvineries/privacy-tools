@@ -4,15 +4,18 @@
 - [GrapheneOS](https://grapheneos.org/): Operating System.
 - [Karma FW](https://github.com/StarGW-net/karma-firewall): Firewall.
 ### Browsers:
-- [Mullvad](https://mullvad.net/en/browser): Web browser based on Firefox, designed to minimize online tracking and enhance anonymity. (PC)
-- [Tor Browser](https://www.torproject.org/download/): Web browser based on Firefox that uses the Tor network. (PC + Android)
-- [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium): Privacy-enhanced version of the Chromium browser, stripped of all Google services. (PC)
-- [Ungoogled Chromium Android](https://github.com/ungoogled-software/ungoogled-chromium-android): Privacy-enhanced version of the Chromium browser, stripped of all Google services. (Android)
+- [Mullvad](https://mullvad.net/en/browser): Based on Firefox, designed to minimize online tracking and enhance anonymity. (PC)
+- [Tor Browser](https://www.torproject.org/download/): Based on Firefox, and use the Tor network. (PC + Android)
+- [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium): Based on Chromium, stripped of all Google services. (PC)
+- [Ungoogled Chromium Android](https://github.com/ungoogled-software/ungoogled-chromium-android): Based on Chromium, stripped of all Google services. (Android)
 ### DNS:
 - [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
 - [Quad9](https://www.quad9.net/)
 ### Firefox:
 - [Betterfox](https://github.com/yokoffing/Betterfox): Firefox user.js for speed, privacy, and security.
+### Mail:
+- [Proton Mail](https://proton.me/mail)
+- [Tuta](https://tuta.com/)
 ### Search Engines:
 - [Brave Search](https://search.brave.com/): Privacy-centric search engine developed by Brave that does not track users or personalize results based on personal data.
 - [DuckDuckGo](https://duckduckgo.com/): Search engine that prioritizes user privacy by not tracking search history or personal data.
