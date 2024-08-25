@@ -1,6 +1,6 @@
 ## Privacy & Security
 ### Android:
-- [Extirpater](https://github.com/divestedcg/Extirpater): Free space eraser.
+- [Extirpater](https://github.com/Divested-Mobile/Extirpater): Free space eraser.
 - [GrapheneOS](https://grapheneos.org/): Operating System.
 - [Karma FW](https://github.com/StarGW-net/karma-firewall): Firewall.
 ### Browsers:
